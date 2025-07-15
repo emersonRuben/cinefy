@@ -13,9 +13,11 @@ dependencies:
   flutter_dotenv: ^5.0.2
   flutter_riverpod: ^2.2.0
   go_router: ^6.0.9
+  json_annotation: ^4.9.0
 
 dev_dependencies:
   flutter_lints: ^2.0.0
+  build_runner: ^2.4.7
   flutter_test:
     sdk: flutter
 
