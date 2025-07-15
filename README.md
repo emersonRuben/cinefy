@@ -15,34 +15,12 @@ Cinefy es una aplicación móvil desarrollada en Flutter y Dart que permite cons
 - Dart
 - The MovieDB API
 
-## Instalación
-1. Clona este repositorio:
-   ```bash
-   git clone <url-del-repositorio>
-   ```
-2. Ingresa al directorio del proyecto:
-   ```bash
-   cd flutter-cinemapedia
-   ```
-3. Copia el archivo `.env.template` y renómbralo a `.env`:
-   ```bash
-   cp .env.template .env
-   ```
-4. Configura tus variables de entorno (API Key de The MovieDB) en el archivo `.env`.
-5. Instala las dependencias:
-   ```bash
-   flutter pub get
-   ```
-6. Ejecuta la aplicación:
-   ```bash
-   flutter run
-   ```
 
 ## Uso
 - Navega por las películas populares desde la pantalla principal.
 - Selecciona una película para ver sus detalles.
 
 ## Créditos
-- Desarrollado por: [Tu Nombre Aquí]
-- Curso: Computación Paralela y Distribuida
+- Desarrollado por: [Ruben Huacasi Ccama]
+- Curso: Computación Paralela y Distribuida A - UNAP
 - API: [The MovieDB](https://www.themoviedb.org/)
